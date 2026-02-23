@@ -1,5 +1,3 @@
-# Aldin Leycano
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FFD700,100:FF7F50&height=230&section=header&text=Aldin%20Leycano%20🌻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20System%20Analyst%20%7C%20UI/UX%20Enthusiast%20%7C%20IT%20Student&descAlignY=60&descAlign=50)
 
 <p align="center">
