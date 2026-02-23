@@ -90,14 +90,6 @@ I am eager to contribute, learn from industry professionals, and grow into a rel
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=aleycano&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleycano&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/aldin0leycano
