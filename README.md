@@ -1,5 +1,12 @@
-
 # Aldin Leycano
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,50:FFD700,100:FF7F50&height=230&section=header&text=Aldin%20Leycano%20🌻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20System%20Analyst%20%7C%20UI/UX%20Enthusiast%20%7C%20IT%20Student&descAlignY=60&descAlign=50)
+
+<p align="center">
+🌻 🌼 ✨ Growing, Learning, Building ✨ 🌼 🌻
+</p>
+
+---
 
 ## Information Technology Student | Aspiring System Analyst | UI/UX & QA Enthusiast
 
@@ -87,9 +94,9 @@ I am eager to contribute, learn from industry professionals, and grow into a rel
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aleycano&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=aleycano&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleycano&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleycano&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -102,4 +109,4 @@ I am eager to contribute, learn from industry professionals, and grow into a rel
 
 ---
 
-> "I may be early in my journey, but I am committed to continuous learning and delivering quality in everything I build."
+> 🌻 “Like a sunflower, I am always growing toward knowledge and opportunity.”
