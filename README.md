@@ -92,7 +92,7 @@ I am eager to contribute, learn from industry professionals, and grow into a rel
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/aldin0leycano
+- LinkedIn: https://www.linkedin.com/in/aldin-leycano
 - Facebook: https://facebook.com/AldinLeycano
 - Instagram: https://instagram.com/a.leycano
 - Discord: https://discord.com/users/625204820621393961
