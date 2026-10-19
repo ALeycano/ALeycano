@@ -6,19 +6,19 @@
 
 ---
 
-## Information Technology Student | Aspiring System Analyst | UI/UX & QA Enthusiast
+## Information Technology Graduate | Aspiring SOC Analyst | UI/UX & QA Enthusiast
 
-I am an Information Technology student passionate about **System Analysis, UI/UX Design, and Quality Assurance**. 
+I am an Information Technology graduate passionate about **System Analysis, UI/UX Design, and Quality Assurance**. 
 
 Although I am still at the beginning of my professional journey, I am actively developing my skills through academic projects, self-learning, and hands-on internship experience.
 
-Currently, I am an **Intern at Knowlees Training Institute**, where I continue to strengthen my technical foundation, analytical thinking, and professional skills.
+I completed my intership at **Knowlees Training Institute**, where I continued to strengthen my technical foundation, analytical thinking, and professional skills.
 
 ---
 
 ## 🎓 Education Status
 
-- Bachelor’s Degree in Information Technology (Ongoing)
+- Bachelor’s Degree in Information Technology 
 - Focus Areas:
   - System Analysis & Design
   - Software Development
@@ -77,25 +77,11 @@ Currently, I am an **Intern at Knowlees Training Institute**, where I continue t
 
 ---
 
-## 🚀 Career Objective
-
-As a motivated student and aspiring System Analyst, I am seeking opportunities such as:
-
-- System Analyst Intern
-- Junior QA Analyst
-- Entry-Level Business/System Analyst
-- UI/UX Intern
-
-I am eager to contribute, learn from industry professionals, and grow into a reliable IT professional who builds structured, user-centered, and high-quality systems.
-
----
-
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/aldin-leycano
-- Facebook: https://facebook.com/AldinLeycano
-- Instagram: https://instagram.com/a.leycano
-- Discord: https://discord.com/users/625204820621393961
+- Gmail:    @dinleycano@gmail.com
+- Discord:  https://discord.com/users/625204820621393961
 
 ---
 
